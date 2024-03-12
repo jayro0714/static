@@ -1,1 +1,1 @@
-Sample Project
+Sample Django Project
